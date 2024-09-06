@@ -11,7 +11,8 @@
 
 ## Preview
 
-Join my discord and view in #updates
+![image](https://github.com/user-attachments/assets/34f339d2-2f52-4a75-9747-b982b3dae42e)
+
 
 ## License
 
