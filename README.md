@@ -8,6 +8,8 @@
 - Multiple Hud Types
 - Mantine V7
 
+ESX VERSION: https://github.com/Sh0rtyyy/ts_hud-2.0
+
 
 ## Preview
 
