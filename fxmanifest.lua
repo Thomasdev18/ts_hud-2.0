@@ -7,6 +7,7 @@ game 'gta5'
 
 shared_scripts {
     '@ox_lib/init.lua',
+    '@qbx_core/modules/lib.lua', -- COMMENT OUT IF USING QBCORE
     'config.lua'
 }
 
