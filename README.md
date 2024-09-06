@@ -1,5 +1,5 @@
 
-# TS SCRIPTS - HUD
+# TS SCRIPTS - HUD 2.0
 
 ## Features
 
@@ -7,13 +7,11 @@
 - Unique Design
 - Multiple Hud Types
 - Mantine V7
-- QBOX / QBCORE (Maybe some changes are needed) / ESX SUPPORT (SOON)
 
 
-## Screenshots
+## Preview
 
-![App Screenshot](https://i.imgur.com/wG5Z5no.png)
-![App Screenshot](https://i.imgur.com/V225TP3.png)
+Join my discord and view in #updates
 
 ## License
 
@@ -56,12 +54,4 @@ If you have any feedback, please reach out to me in our [Discord community](http
 ## Authors
 
 - [@Thomasdev18](https://github.com/Thomasdev18)
-
-
-## Credits
-A big thank you to everyone who has contributed, reached out, and offered to help—I truly appreciate your support!
-
-Special thanks to **MT-Scripts** for providing the foundation of the backend, which is based on their HUD.
-
-- [@MT-Scripts](https://github.com/MT-Scripts)
 
